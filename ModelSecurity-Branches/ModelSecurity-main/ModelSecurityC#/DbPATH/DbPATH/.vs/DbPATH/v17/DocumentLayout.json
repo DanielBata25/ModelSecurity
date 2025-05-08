@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\business\\formmodulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|solutionrelative:business\\formmodulebusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\business\\rolformpermissionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|solutionrelative:business\\rolformpermissionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\business\\roluserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA42D07-9561-46C7-A4DD-BF22D5A3E7E2}|Business\\Business.csproj|solutionrelative:business\\roluserbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\data\\formmoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|solutionrelative:data\\formmoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\data\\roldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|solutionrelative:data\\roldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\data\\roluserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AAA180-ECEB-4203-9F83-ABB4A360A458}|Data\\Data.csproj|solutionrelative:data\\roluserdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\entity\\dtos\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\entity\\dtos\\updateroluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\updateroluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1BC8C7-D5A2-4504-8C15-1555EABFDE18}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|solutionrelative:entity\\model\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|c:\\xampp\\htdocs\\modelsecurity\\modelsecurity-branches\\modelsecurity-main\\modelsecurity\\dbpath\\dbpath\\entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A356B5E-3776-4E38-926E-10A67EBFB038}|Entity\\Entity.csproj|solutionrelative:entity\\model\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T19:22:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T22:39:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolData.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\RolData.cs",
+              "RelativeDocumentMoniker": "Data\\RolData.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\RolData.cs",
+              "RelativeToolTip": "Data\\RolData.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:38:35.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RolFormPermissionBusiness.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\RolFormPermissionBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\RolFormPermissionBusiness.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\RolFormPermissionBusiness.cs",
+              "RelativeToolTip": "Business\\RolFormPermissionBusiness.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA7wHcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T21:34:39.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormModuleData.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\FormModuleData.cs",
+              "RelativeDocumentMoniker": "Data\\FormModuleData.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\FormModuleData.cs",
+              "RelativeToolTip": "Data\\FormModuleData.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:31:30.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolUserController.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\Controllers\\RolUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Web\\Controllers\\RolUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwHwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:21:11.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\Model\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\Rol.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\Model\\Rol.cs",
+              "RelativeToolTip": "Entity\\Model\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:09:12.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RolUser.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\Model\\RolUser.cs",
+              "RelativeDocumentMoniker": "Entity\\Model\\RolUser.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\Model\\RolUser.cs",
+              "RelativeToolTip": "Entity\\Model\\RolUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:08:54.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormModuleBusiness.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\FormModuleBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\FormModuleBusiness.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\FormModuleBusiness.cs",
+              "RelativeToolTip": "Business\\FormModuleBusiness.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwHUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:06:27.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolUserDto.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\DTOs\\RolUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\RolUserDto.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\DTOs\\RolUserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\RolUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:05:19.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RolUserBusiness.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\RolUserBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\RolUserBusiness.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Business\\RolUserBusiness.cs",
+              "RelativeToolTip": "Business\\RolUserBusiness.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAlwHcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:02:41.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolUserData.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\RolUserData.cs",
+              "RelativeDocumentMoniker": "Data\\RolUserData.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Data\\RolUserData.cs",
+              "RelativeToolTip": "Data\\RolUserData.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwF4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:02:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateRolUserDto.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\DTOs\\UpdateRolUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\UpdateRolUserDto.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\ModelSecurity\\ModelSecurity-Branches\\ModelSecurity-main\\ModelSecurity\\DbPATH\\DbPATH\\Entity\\DTOs\\UpdateRolUserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\UpdateRolUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:02:35.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
